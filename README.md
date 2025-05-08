@@ -13,8 +13,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-(Добавьте свои технологии)
-
 ## 📊 Статистика
 
 ![Uxxxsr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uxxxsr1&show_icons=true&theme=radical)
