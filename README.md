@@ -21,7 +21,7 @@
 
 ## 📫 Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](@gimranov_timur)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](@openi686)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:uxxxsr@gmail.com)
 
 ⭐ Спасибо за визит! ⭐
